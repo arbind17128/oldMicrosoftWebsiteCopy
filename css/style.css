@@ -201,7 +201,7 @@ a{
 .footer .inner-footer {
     display: flex;
     justify-content: space-between;
-    padding: 40px 0;
+    padding: 40px 10px;
 }
 .footer .inner-footer ul {
     display: flex;
